@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Jockeur
+- 👀 I’m interested in Java, Arduino, Python and web
+- 🌱 I’m currently learning Java and Python
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me in Discord JockeurYT#8995
