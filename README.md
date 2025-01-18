@@ -2,4 +2,4 @@
 - 👀 I’m interested in Java, Arduino, Python and web
 - 🌱 I’m currently learning Java, Python and web
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me in Discord JockeurYT#8995
+- 📫 How to reach me in Discord jockeurmc
